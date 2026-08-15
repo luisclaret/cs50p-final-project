@@ -1,0 +1,13 @@
+[project]
+name = "final-project"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "check50>=3.4.0",
+    "pytest>=9.1.1",
+    "submit50>=3.2.1",
+]
